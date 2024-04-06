@@ -12,23 +12,23 @@ const Left = () => {
     },
     {
       id:2,
-      chatName: 'This is sample Chat 1 for chatgpt..'
+      chatName: 'This is sample Chat 2 for chatgpt..'
     },
     {
         id:3,
-        chatName: 'This is sample Chat 1 for chatgpt..'
+        chatName: 'This is sample Chat 3 for chatgpt..'
     },
     {
           id:4,
-          chatName: 'This is sample Chat 1 for chatgpt..'
+          chatName: 'This is sample Chat 4 for chatgpt..'
     },
     {
             id:5,
-            chatName: 'This is sample Chat 1 for chatgpt..'
+            chatName: 'This is sample Chat 5 for chatgpt..'
     },
     {
               id:6,
-              chatName: 'This is sample Chat 1 for chatgpt..'
+              chatName: 'This is sample Chat 6 for chatgpt..'
     },
 
 ]

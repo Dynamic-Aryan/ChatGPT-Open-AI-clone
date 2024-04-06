@@ -14,7 +14,7 @@
 }
 .text1{
     color: var(--textcol);
-    font-size: 20px;
+    font-size: 17px;
 }
 .newChat div{
     display: flex;
